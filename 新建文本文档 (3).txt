@@ -1,0 +1,120 @@
+========================================================================4
+PT:ST:DVT1:Saipan:Heard hissing in CMCC HD call
+
+Steps to reproduce:
+！！Case 1
+
+In CMCC HD call
+-Shasha on earpiece and Huihuang on speakr:both heard hissing
+when shasha switched to earpiece,the issue had reproduced
+This issue reproduced in CMCC HD video call
+
+Log Please check the attach file case1
+
+competitor:
+Ibiza row:not the issue  
+
+=== Additional information ===
+
+Software Version:RRS31.Q2-19
+
+HW Version: DVT1
+
+Build location: https://artifacts-bjmirr.mot.com/artifactory/webapp/#/artifacts/browse/tree/General/saipan/11/RRS31.Q2-19/saipan_retail
+
+Test case link on:https://dalek.mot.com/browse/SUPERTEST-46176
+
+Android version: 11
+
+Serial Number:N6AR130580/N6AR130492
+
+Reporter/phone number/E-mail:huihuang lai/18459153106/laihh1@lenovo.com
+==================================================================================6
+PT:ST:DVT1:Saipan:Heard echo on wired headset in CMCC HD call
+
+Steps to reproduce:
+！！Case 1
+
+In CMCC HD call
+-both Shasha and Huihuang on wired headset:huihuang heard echo when shasha speaker switched to wired headset
+
+Log Please check the attach file case1
+
+competitor:
+Ibiza row:not the issue  
+
+=== Additional information ===
+
+Software Version:RRS31.Q2-19
+
+HW Version: DVT1
+
+Build location: https://artifacts-bjmirr.mot.com/artifactory/webapp/#/artifacts/browse/tree/General/saipan/11/RRS31.Q2-19/saipan_retail
+
+Test case link on:https://dalek.mot.com/browse/SUPERTEST-46176
+
+Android version: 11
+
+Serial Number:N6AR130580/N6AR130492
+
+Reporter/phone number/E-mail:huihuang lai/18459153106/laihh1@lenovo.com
+================================================================================7
+PT:ST:DVT1:Saipan:The audio change to dull slightly in CMCC Non-HD call
+
+Steps to reproduce:
+！！Case 1
+
+in CMCC Non-HD call
+-both Shasha and Huihuang on wired headset:Shasha heard the audio had a little dull
+
+Log Please check the attach file case1
+
+competitor:
+Ibiza row:the audio is more clear than DUT
+
+=== Additional information ===
+
+Software Version:RRS31.Q2-19
+
+HW Version: DVT1
+
+Build location: https://artifacts-bjmirr.mot.com/artifactory/webapp/#/artifacts/browse/tree/General/saipan/11/RRS31.Q2-19/saipan_retail
+
+Test case link on:https://dalek.mot.com/browse/SUPERTEST-46176
+
+Android version: 11
+
+Serial Number:N6AR130580/N6AR130492
+
+Reporter/phone number/E-mail:huihuang lai/18459153106/laihh1@lenovo.com
+==================================================================================8
+PT:ST:DVT1:Saipan:Heard echo on speaker in CMCC Non-HD call
+
+Steps to reproduce:
+！！Case 1
+
+in CMCC Non-HD call
+-both Shasha and Huihuang on speaker:Shasha heard echo when shasha single speak
+
+Log Please check the attach file case1
+
+competitor:
+Ibiza row:not the issue  
+
+=== Additional information ===
+
+Software Version:RRS31.Q2-19
+
+HW Version: DVT1
+
+Build location: https://artifacts-bjmirr.mot.com/artifactory/webapp/#/artifacts/browse/tree/General/saipan/11/RRS31.Q2-19/saipan_retail
+
+Test case link on:https://dalek.mot.com/browse/SUPERTEST-46176
+
+Android version: 11
+
+Serial Number:N6AR130580/N6AR130492
+
+Reporter/phone number/E-mail:huihuang lai/18459153106/laihh1@lenovo.com
+
+
